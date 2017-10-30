@@ -28,9 +28,6 @@ A full screen "spreadsheet" of enery drink purchases.  At the upper left are sel
 #Is that a scrollbar?
 Rather than reinvent the wheel with `<div>`s, I used and rotated `<input type='range' ... />` as a quick and dirty scrollbar.  If I had more time, I would style it to look like a more traditional scrollbar.
 
-#Known Bugs:
-* On Firefox, the number of cells is too great for the viewport, pushing the footer offscreen.
-
 #To Do's
 - Make state in App.js true state; pull out constants and make them part of the App class
 - Up/down buttons with press-and-hold functionality to move the slider's thumb
