@@ -23,6 +23,7 @@ The build is minified and the filenames include the hashes.<br>
 The app is ready to be deployed!
 
 -- What is this? --
+
 A full screen "spreadsheet" of enery drink purchases.  At the upper left are selector drop-downs to allow filtering of the data.  At the right is a vertical slider to select which page (if multiple) to view.  Clicking on the thumb ("large sliding dot") gives it focus so you can press the up/down arrow keys to move up/down in the page list. At the bottom are dollar and item totals of the displayed page's data.
 
 -- Is that a scrollbar? --
